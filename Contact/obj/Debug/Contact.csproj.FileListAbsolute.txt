@@ -1,0 +1,15 @@
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\bin\Debug\EntityFramework.dll
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\bin\Debug\EntityFramework.xml
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\obj\Debug\Contact.csprojAssemblyReference.cache
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\obj\Debug\Contact.Contact.resources
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\obj\Debug\Contact.csproj.CopyComplete
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\gunsk.DESKTOP-7087S3I\Documents\GitHub\Contact\Contact\obj\Debug\Contact.pdb
